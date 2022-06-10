@@ -1,4 +1,4 @@
-# COGS118A Project - Heart Disease Detectin
+# COGS118A Project - Heart Disease Detection
 This project is the final project for UCSD's COGS 118A Supervised Machine Learning Course.
 
 Members:
